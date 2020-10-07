@@ -24,7 +24,7 @@
       "typeorm": "0.2.25"
    },
    "scripts": {
-      "start": "node .",
-      "tsc": "tsc"
+      "start": "node ."
+     
    }
 }
