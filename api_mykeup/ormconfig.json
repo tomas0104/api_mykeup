@@ -1,10 +1,10 @@
 {
    "type": "mysql",
-   "host": "localhost",
+   "host": "us-cdbr-east-02.cleardb.com",
    "port": 3306,
-   "username": "tomasmejia",
-   "password": "Maribel.2020",
-   "database": "id14990221_mykeup",
+   "username": "b1f2645abd82a2",
+   "password": "93708d71",
+   "database": "heroku_f92b77a2221b1b1",
    "synchronize": true,
    "logging": false,
    "entities": [
